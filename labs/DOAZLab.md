@@ -23,7 +23,7 @@ Deploy the Defensive Origins AZLab from doazlab.com:
 | ![](../images/prls2-1.jpg) |
 |----------------------------|
 
-Or, you can view the operations in more detail on Github:
+Or, you can view the operations in more detail on GitHub:
 [DOAZLab-Github][DOAZLab-Github]
 
 | ![](../images/prls2-2a.jpg) |
@@ -63,13 +63,23 @@ Whether you agree or not, should you choose to click Create, you implicitly do.
 
 | ![](../images/prls2-7.jpg) |
 |----------------------------|
+
+The full deployment will take aproximately 45 minutes.  You do not need to keep the window open, the process will continue even if you close it.  In the following section, you will configure the new lab environment to report logs to Azure Sentinel.  You must wait for deployment to complete before continuing.
 </blockquote>
 </details>
 
 <Details><summary> <b>Step 2: Connect Log Sources</b></summary>
 <blockquote>
 
-Find your Log Analytics workspace which will depend on your naming convention and will differ from the name shown in the screen below.
+
+In the previous step you deployed the DOAZLab environment into your Azure account. The full deployment takes approximately 45 minutes.  In the following section, you will configure the new lab environment to report logs to Azure Sentinel.  You must wait for deployment from the prior step to complete before continuing.
+
+From the main Azure Portal screen search "log analytics" and select "Log Analytics workspaces."  In the new pane, select the only available Log Analytics workspace.
+
+| ![](../images/azb-1.png) |
+|------------------------|
+
+Alternatively you may also find your Log Analytics workspace from the Azure Resources pane.  Note that your workspaces naming convention and will differ from the name shown in the screen below.
 
 | ![](../images/prls3-1.jpg) |
 |----------------------------|
