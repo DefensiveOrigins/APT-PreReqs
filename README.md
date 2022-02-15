@@ -5,9 +5,9 @@
 
 The following pre-requisites are required before the first day of class.
 
-* GitHub (Free or Upgraded) Account [ [Instructions](labs\GitHub.md) ]
-* Azure "Upgraded" (Pay-As-You-Go) Account. [ [Instructions](labs\AzureAccount.md) ]
-* Deployment of DOAZLab.com in their  Azure Subscription [ [Instructions](labs\DOAZLab.md) ]
+* GitHub (Free or Upgraded) Account [ [Instructions](labs/GitHub.md) ]
+* Azure "Upgraded" (Pay-As-You-Go) Account. [ [Instructions](labs/AzureAccount.md) ]
+* Deployment of DOAZLab.com in their  Azure Subscription [ [Instructions](labs/DOAZLab.md) ]
 
 ![][Div1]
 
