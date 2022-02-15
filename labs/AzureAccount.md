@@ -9,7 +9,12 @@ Students are required to have an upgraded Azure account.
 * Azure components operated in the course cost approximately USD $10/day
 
 ## Azure account
-There are two options for setting up an Azure account.  Generally speaking, we recommend using option 1 unless your organization offers to pay for the lab portions of this course on an existing enterprise Azure account.  
+There are three options for using an Azure account for the Defensive Origins Applied Purple Teaming Lab:
+* Create a new Azure Account
+* Use an existing Azure Account (and upgrade if necessary)
+* Use a corporate Azure Account. 
+
+Generally speaking, we recommend using option 1 unless your organization offers to pay for the lab portions of this course on an existing enterprise Azure account.  If you are already familiar with Azure and have an existing account and Pay-As-You-Go subscription, you may use your existing account.
 
 **Option 1: New free Azure Account**
 <blockquote>
@@ -20,9 +25,9 @@ https://azure.microsoft.com/en-us/free/
 
 * After your free account is provisioned, upgrade the free account to a paid account.  
 * At the time of writing, Azure offered $200 in free credits for new accounts, including free accounts that are upgraded.  
-</blockquote>
 
-<Details><summary> Step 1: Create Azure Account</summary>
+
+<Details><summary> <b>Step 1: Create Azure Account</b></summary>
 
 Go to https://azure.microsoft.com/en-us/free/ and click on "Pay as you go"
 
@@ -63,7 +68,7 @@ After the process is completed, the screen will refresh and you will be provided
 
 </details>
 
-<Details><summary> Step 2: Confirm Subscription</summary>
+<Details><summary> <b>Step 2: Confirm Subscription</b></summary>
 
 Continuing from the previous step, click on "Go To the Azure Portal" or goto https://portal.azure.com.
 
@@ -86,7 +91,20 @@ You are ready to move on to the next step of the pre-requisites: Deploying the l
 
 </details>
 
-**Option 2: Existing Azure ACcount/Corporate Account**
+</blockquote>
+
+**Option 2: Update an Existing Azure account**
+<blockquote>
+If you have an existing Azure Account, it may be used so long as it is upgraded to a "Pay-As-You-Go" account.  If it has not been upgraded, from the Azure portal search "Subscriptions" and open the Subscriptions pane.  Then open the details for your existing subscription.  On the subscription you would like to use, press the option to "Upgrade to keep going with your account". 
+
+| ![](azc-1.png) |
+|--------------------------|
+
+This will kickoff the process similar to the billing components of Step 1 in Option.
+</blockquote>
+
+
+**Option 3: Existing Azure Corporate Account**
 <blockquote>
 If your organization already operated a corporate Azure account, you may required access to deploy the lab environment within your corporate Azure subscriptions.
 Request access to a corporate (your company, business, from your IT operations department, help desk, CIO, CISO, CTO) subscription for this class. The subscription will require the following:
