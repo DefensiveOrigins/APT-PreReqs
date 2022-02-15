@@ -97,7 +97,7 @@ You are ready to move on to the next step of the pre-requisites: Deploying the l
 <blockquote>
 If you have an existing Azure Account, it may be used so long as it is upgraded to a "Pay-As-You-Go" account.  If it has not been upgraded, from the Azure portal search "Subscriptions" and open the Subscriptions pane.  Then open the details for your existing subscription.  On the subscription you would like to use, press the option to "Upgrade to keep going with your account". 
 
-| ![](azc-1.png) |
+| ![](../azc-1.png) |
 |--------------------------|
 
 This will kickoff the process similar to the billing components of Step 1 in Option.
