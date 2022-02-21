@@ -39,7 +39,8 @@ And, deploy via the README with one click!!
 
 Next up you will choose your subscription, resource group, and log analytics workspace. For easy deployments and cleanup, a general recommendation is to create a new resource group and log analytics workspace. 
 
-| ![](../images/prls2-3.jpg) |
+
+| ![](../images/prls2-3-2.png) |
 |----------------------------|
 
 Feel free to modify the size of your VMs should you so choose. The default selections made for this course have been tested thoroughly and represent a balance of performance and cost. 
@@ -64,7 +65,7 @@ Whether you agree or not, should you choose to click Create, you implicitly do.
 | ![](../images/prls2-7.jpg) |
 |----------------------------|
 
-The full deployment will take aproximately 45 minutes.  You do not need to keep the window open, the process will continue even if you close it.  In the following section, you will configure the new lab environment to report logs to Azure Sentinel.  You must wait for deployment to complete before continuing.
+The full deployment will take approximately 45 minutes.  You do not need to keep the window open, the process will continue even if you close it.  In the following section, you will configure the new lab environment to report logs to Azure Sentinel.  You must wait for deployment to complete before continuing.
 </blockquote>
 </details>
 
