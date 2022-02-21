@@ -68,7 +68,8 @@ After the process is completed, the screen will refresh and you will be provided
 
 </details>
 
-<Details><summary> <b>Step 2: Confirm Subscription</b></summary>
+<Details>
+  <summary> <b>Step 2: Confirm Subscription</b></summary>
 
 Continuing from the previous step, click on "Go To the Azure Portal" or goto https://portal.azure.com.
 
