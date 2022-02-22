@@ -9,7 +9,7 @@ Students are required to deploy the DOAZLab in their azure subscription.
 * The cost of the lab environment is approximately $10/day.
 * New Azure accounts are provided $200 in free credit that is credited within the first couple of days and can be used (automatically) for the DOAZLab deployment.  
 * Remember after the end of class delete your lab environment to ensure you have no unexpected fees from Azure.
-* The VM size selection will default to B2s, A2,or A2_V2 depending on region selection and availability.  Generally B2s is least expensive if available. Any of these options is acceptable for our the lab environment.
+* The VM size selection will default to B2s, A2,or A2_V2 depending on region selection and availability.  Generally B2s is least expensive if available. Any of these options is acceptable for the lab environment.
 
 ## Deploy Defensive Origins Azure Lab (DOAZLab)
 
@@ -44,7 +44,7 @@ Next up you will choose your subscription, resource group, and log analytics wor
 | ![](../images/prls2-3-2.png) |
 |----------------------------|
 
-The VM size selection will default to B2s, A2,or A2_V2 depending on region selection and availability.  Generally B2s is least expensive if available. Any of these options is acceptable for our the lab environment.
+The VM size selection will default to B2s, A2,or A2_V2 depending on region selection and availability.  Generally B2s is least expensive if available. Any of these options is acceptable for the lab environment.
 
 Feel free to modify the size of your VMs should you so choose. The default selections made for this course have been tested thoroughly and represent a balance of performance and cost.
 
