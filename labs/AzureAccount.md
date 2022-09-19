@@ -19,12 +19,12 @@ Generally speaking, we recommend using option 1 unless your organization offers 
 **Option 1: New free Azure Account**
 <blockquote>
 
-Sign up for an Azure account and claim the $200 free credit for new accounts.
+Sign up for an Azure account.
 
 https://azure.microsoft.com/en-us/free/
 
 * After your free account is provisioned, upgrade the free account to a paid account.  
-* At the time of writing, Azure offered $200 in free credits for new accounts, including free accounts that are upgraded.  
+
 
 
 <Details><summary> <b>Step 1: Create Azure Account</b></summary>
