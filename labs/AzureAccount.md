@@ -16,16 +16,8 @@ There are three options for using an Azure account for the Defensive Origins App
 
 Generally speaking, we recommend using option 1 unless your organization offers to pay for the lab portions of this course on an existing enterprise Azure account.  If you are already familiar with Azure and have an existing account and Pay-As-You-Go subscription, you may use your existing account.
 
-**Option 1: New free Azure Account**
+**Option 1: New Pay-As-You-Go Azure Account**
 <blockquote>
-
-Sign up for an Azure account.
-
-https://azure.microsoft.com/en-us/free/
-
-* After your free account is provisioned, upgrade the free account to a paid account.  
-
-
 
 <Details><summary> <b>Step 1: Create Azure Account</b></summary>
 
