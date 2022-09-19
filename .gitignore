@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/APT-PreReqs2
+/.vs/VSWorkspaceState.json
+/.vs/
