@@ -39,11 +39,11 @@ And, deploy via the README with one click!!
 
 Next up you will choose your subscription, resource group, and log analytics workspace. For easy deployments and cleanup, a general recommendation is to create a new resource group and log analytics workspace. 
 
-
-| ![](../images/prls2-3-2.png) |
+| ![](../images/az9-b.png) |
 |----------------------------|
 
-The VM size selection will default to B2s, A2,or A2_V2 depending on region selection and availability.  Generally B2s is least expensive if available. Any of these options are acceptable for the lab environment.
+The VM size selection will default to B2s, A2,or A2_V2 depending on region selection and availability. 
+**Generally B2s is least expensive** if available. Any of these options are acceptable for the lab environment.
 
 Feel free to modify the size of your VMs should you so choose. The default selections made for this course have been tested thoroughly and represent a balance of performance and cost.
 
@@ -55,7 +55,7 @@ The next step in your custom deployment is to confirm the public IP space. Feel 
 
 **Please be aware that a demonstration will be provided and a discussion around this exposure and that leaving this address wide open (0.0.0.0/0) presents an interesting perspective of the Internet and the risks of exposing services there.**
 
-| ![](../images/prls2-5.jpg) |
+| ![](../images/prls2-5b.png) |
 |----------------------------|
 
 That is pretty much it for the configuration of your ARM template based deployment of the DO AZ lab environment. The next screenshot includes a warning about agreeing to the terms on Microsoft.
